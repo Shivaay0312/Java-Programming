@@ -178,18 +178,8 @@ public class Method {
 //        System.out.println(multiply(10,20));
 //        System.out.println(multiply(10.5, 10.5));
 //        System.out.println(multiply(10,20,30));
-public static int multiply(int a , int b){
-    return a*b;
-}
-    public static double multiply( double a, double b){
-        return a*b;
-    }
-    public static int multiply( int a, int b, int c){
-        return a*b*c;
-    }
-    public static void main(String[] args){
-        System.out.println(multiply(10,20));
-        System.out.println(multiply(10.5, 10.5));
-        System.out.println(multiply(10,20,30));
-    }
+
+static void main() {
+   System.out.println("Hello Java");
+  }
 }

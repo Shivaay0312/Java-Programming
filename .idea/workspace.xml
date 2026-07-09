@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28281f9c-ef1a-4566-ac39-528cdcfde471" name="Changes" comment="">
+    <list default="true" id="28281f9c-ef1a-4566-ac39-528cdcfde471" name="Changes" comment="Update Method.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
     </list>
@@ -113,6 +113,15 @@
       <option name="presentableId" value="Default" />
       <updated>1782235039964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update Method.java">
+      <option name="closed" value="true" />
+      <created>1783633988924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783633988924</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +141,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Practice &amp; Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice &amp; Changes" />
+    <MESSAGE value="Update Method.java" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
