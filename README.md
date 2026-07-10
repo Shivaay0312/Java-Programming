@@ -47,6 +47,7 @@ My goal is to become a Java Backend Developer by building a strong foundation in
 * ⏳ Collections
 * ⏳ Exception Handling
 * ⏳ Java 8 Features
+* ⏳ SQL & MySQL
 * ⏳ JDBC
 * ⏳ Spring Boot
 * ⏳ Project   
