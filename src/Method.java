@@ -183,6 +183,9 @@ public class Method {
 //        System.out.println(multiply(10, 20, 30));
 //
 //    }
+//    static void main(String[] args) {
+//
+//        System.out.println("Git Test");
     static void main(String[] args) {
 
         System.out.println("Git Test");
