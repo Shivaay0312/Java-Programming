@@ -179,7 +179,4 @@ public class Method {
 //        System.out.println(multiply(10.5, 10.5));
 //        System.out.println(multiply(10,20,30));
 
-static void main() {
-   System.out.println("Hello Java");
-  }
 }

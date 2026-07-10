@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;Shivaay0312&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Shivaay0312/Java.git&quot;,
-    &quot;accountId&quot;: &quot;fb067683-d55e-44c4-9ea5-d6734b2ca453&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shivaay0312/Core-Java-.git",
+    "accountId": "fb067683-d55e-44c4-9ea5-d6734b2ca453"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -72,7 +72,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.Method">
+  <component name="RunManager">
     <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Method" />
       <module name="Java Practice" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783635355103</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete Java methods chapter">
+      <option name="closed" value="true" />
+      <created>1783701246065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783701246065</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
