@@ -1,6 +1,7 @@
 public class ArrayDefaultValues {
     static void main(String[] args) {
-        /// Question 4 (Medium) Array Default Values
+
+        /// Question 1 (Medium) Array Default Values
         /// Default value Question
 
         int[] arr = new int[4];
