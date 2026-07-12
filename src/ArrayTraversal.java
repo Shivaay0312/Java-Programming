@@ -1,9 +1,11 @@
 public class ArrayTraversal {
     static void main(String[] args) {
 /// 1. Array Basic question -->
+        // int[] arr; --> Array Declaration
+        // int[] arr = {5, 10, 15}; --> Array Initialization
 
             /// Program --> 1 ( < less than )
-        int[] arr = {5, 10, 15};
+        int[] arr = {5, 10, 15}; // Array Initialization
 
         for (int i=0; i < arr.length; i++) {
             System.out.println(arr[i]);
