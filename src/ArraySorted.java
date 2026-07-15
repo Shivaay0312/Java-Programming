@@ -2,6 +2,10 @@ public class ArraySorted {
   public static void main(String[] args) {
 
       // int[] arr = {10, 20, 30, 40, 50}; Sorted Array
+      /// Sorted Array & Binary Search---> DSA
+
+///      Sorted Array ek "Tariqa" hai data ko rakhne ka (Data Structure / State).
+///      Binary Search ek "Tariqa" hai data ko dhoodhne ka (Algorithm).
       int[] arr = {5, 10, 8, 15}; // first not sorted array using break; statement
        boolean isSorted = true;
 
@@ -17,8 +21,12 @@ public class ArraySorted {
       }
       if(isSorted) { // if and else condition use krne se Array real Condition check hogi
           System.out.println("Array is Sorted");
-      }else
+      }
+      else
           System.out.println("Array is not Sorted");
-          }
+  }
 }
 
+///Binary search sirf aur sirf tabhi kaam karega jab aapka array sorted hoga.
+///Agar array sorted nahi hai (jaise: [40, 10, 50, 20]),
+///toh binary search fail ho jayega.
