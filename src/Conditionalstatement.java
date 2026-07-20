@@ -61,10 +61,11 @@ public class Conditionalstatement {
 //        }
 //        else {
 //            System.out.println("Not Eligible"); //Condition false hai, isliye: else statement
-//Output--> Not Eligible
+//// Output--> Not Eligible
+//        }
 
         //// else-if & else-if ladderStatement 🔥
-//// Jab 1 ya 2 se zyada conditions hoti hain:
+        //// Jab 1 ya 2 se zyada conditions hoti hain:
 
 //        if (condition1) {
 //            // code
@@ -91,6 +92,7 @@ public class Conditionalstatement {
 //            System.out.println("Pass");
 //        } else {
 //            System.out.println("Fail");
+//        }
 
         // Important Rule of else-if ladder
         //Java upar se neeche conditions check karta hai.
@@ -114,6 +116,8 @@ public class Conditionalstatement {
 //            //Ab bahar wala if true hai, isliye andar wala if check hoga.
 //            if (idCard = true) { //idCard == true //true
 //                System.out.println("Vote");//Vote
+//            }
+//        }
 
         ////Example--> Nested-if
         ////Agar bahar wala if false ho
@@ -126,11 +130,13 @@ public class Conditionalstatement {
 //            // Ab bahar wala if hi false ho gaya, to andar wala if check hi nahi hoga.
 //            if (idCard == true) {
 //                System.out.println("Vote de sakte ho"); //Kuch bhi print nahi hoga.
+//            }
+//        }
 
-                ////Rule:
-              //Outer if true  → Inner if check hoga.
-             //Outer if false → Inner if check nahi hoga.
-                //// Dono conditions true hongi tabhi andar wala code chalega.
+        ////Rule:
+        //Outer if true  → Inner if check hoga.
+        //Outer if false → Inner if check nahi hoga.
+        //// Dono conditions true hongi tabhi andar wala code chalega.
 
         /// Switch Statement 🔥
         ////Jab ek hi variable ki kai values check karni ho, tab switch use karte hain.
@@ -160,7 +166,7 @@ public class Conditionalstatement {
         //System.out.println("Tuesday"); //Tuesday
 
         ////Step 2: break kya karta hai?
-       //  break;
+        //  break;
 //        Matlab:
 //        "Switch se bahar nikal jao."
 //        Agar break hai:
@@ -179,8 +185,8 @@ public class Conditionalstatement {
 //        Agar koi bhi case match na kare.
         //Invalid
 
-      //// Step 5: Kab use karein?
-      //  Agar:
+        //// Step 5: Kab use karein?
+        //  Agar:
 //        1 = Monday
 //        2 = Tuesday
 //        3 = Wednesday
@@ -196,14 +202,15 @@ public class Conditionalstatement {
 
         //// Example --> logical Operators
 //        int age = 20;
-//        boolean idCard = false;
+//        boolean idCard = flase;
 //
 //        if (age >= 18 && idCard == true) {
 //            System.out.println("Vote");
 //        } else {
 //            System.out.println("No Vote");
-        }
+//        }
     }
+}
 
 
 

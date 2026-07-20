@@ -1,11 +1,11 @@
 public class Method {
 
     /// Program 1--->
-//    public static void shiv(){
+//     static void shiv(){
 //        System.out.println(" I'm okay"); // method Declaration
 //    }
 //
-//    static void main(String[] args) {
+//    public static void main(String[] args) {
 //        for(int i=1; i<=10; i++)
 //            shiv(); // Method calling
 //        }
@@ -18,7 +18,7 @@ public class Method {
 //
 //    public static void main(String[] args) {
 //
-//        greet("Shivaay"); // name = shiv
+//        greet("Shivaay"); // name = shivaay
 //
 //    }
 //}
@@ -48,7 +48,8 @@ public class Method {
     // Program --> 1
 //        public static int multiply(int a, int b) {
 //            int result = a * b;
-//            return result; // 👈 Yeh result ki value lekar wapas main //method mein chala jayega
+//            return result; // 👈 Yeh result ki value lekar wapas main
+//                                    method mein chala jayega
 //        }
 //    public static void main(String[] args){
 //        int a = 10;
@@ -191,7 +192,6 @@ public class Method {
 //    static void main(String[] args) {
 //
 //        System.out.println("Git Test");
-
     static void main(String[] args) {
 
         System.out.println("Git Test");
