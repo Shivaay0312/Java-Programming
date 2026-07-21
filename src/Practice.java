@@ -176,7 +176,7 @@ public class Practice {
         ///Frequency Array;- Size of frequency Array = Maximum element+1
         int[] arr = {1,2,2,3,4,3,1,2,1};
         //find the frequency of each elements in an array
-        // Time Complexity = O(n^2)
+        // Time Complexity = O(n)
 
         // Step 1: Find Maximum element in Array
         int max = arr[0];
