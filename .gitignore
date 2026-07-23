@@ -29,3 +29,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Practice files to ignore
+src/Javastring/StringPractice.java
+src/practiceJava.java
