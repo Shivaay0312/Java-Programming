@@ -1,4 +1,4 @@
-public class Practice {
+public class practiceJava {
     public static void main(String[] args) {
         /// Searching --> 1-D Array, Linear Search is one of the first DSA problem you should master.
 
