@@ -18,8 +18,6 @@ package OOP;
     /// ⭐ Dot (.) Operator:- Most Important point
     // The dot (.) is used to access the members (variables and methods) of an object.
 
-
-
      /// Example 1:-
 
      class Student{ // Class Declaration
