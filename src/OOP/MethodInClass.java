@@ -34,15 +34,14 @@ package OOP;
 public class MethodInClass {
     public static void main(String[] args) { // Method Calling
 
-        Student s = new Student();
         Student s1 = new Student();
-        s.name = "Shivaay";
-        s.age = 21;
-
-        s1.name = "Ram";
-        s1.age = 20;
-
-        s.display();
+        s1.name = "Shivaay";
+        s1.age = 21;
         s1.display();
+
+        Student s2 = new Student();
+        s2.name = "Ram";
+        s2.age = 20;
+        s2.display();
     }
 }
