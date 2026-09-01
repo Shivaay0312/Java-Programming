@@ -1,7 +1,7 @@
 public class ReverseTraversal {
    public static void main(String[] args) {
 
-       // Reverse Traversal --> i--(Increment) operator.
+       // Reverse Traversal --> i--(Decrement) operator.
        // Loop Condition --> i >= 0
        ///Reverse loop me hum last index se start karte hain.( Example = arr.length - 1)
      /// RuleReverse loop -> for (int i=arr.length - 1; i >= 0; i--){

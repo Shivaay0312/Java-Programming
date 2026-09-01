@@ -14,6 +14,7 @@ public class LinearSearch {
                /// i sirf for loop ke andar exist karta hai.
            }
        }
+      // System.out.println("Found at index " + arr[i]);
    }
 }
 ////   int index = -1; why use this Index
