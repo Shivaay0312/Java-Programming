@@ -14,5 +14,7 @@ public class ArrayAverage {
            int Average = sum /arr.length; /// formula average = sum / total elements
 
         System.out.println(sum + "," + Average); //150, 30
+
+        ////////
     }
 }
