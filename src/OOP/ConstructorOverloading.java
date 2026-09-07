@@ -3,8 +3,7 @@ package OOP;
 //public class ConstructorOverloading {
 
     //// Constructor Overloading
-    //Creating multiple constructors within the same
-    // class that have different parameters is called constructor overloading.
+    //Creating multiple constructors within the same class that have different parameters is called constructor overloading.
 
         /// Program 1
 
@@ -21,9 +20,11 @@ package OOP;
 
         // Constructor 2 - One Parametrized Constructor
         Studenta( String name ) {
+
             this.name = name;
         }
             void show(){
+
             System.out.println("String: " + name);
         }
 
@@ -33,6 +34,7 @@ package OOP;
             this.name = name;
         }
         void shown(){
+
             System.out.println("Age: " +age+ "," + "Name: " +name);
         }
  }

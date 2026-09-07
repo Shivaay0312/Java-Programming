@@ -2,9 +2,7 @@ package OOP;
 
 //public class DefaultConstructor {
 
-    // A default constructor is a constructor that has no parameters.
-    // If we do not write any constructor,the Java compiler automatically
-    // provides a default constructor.
+    // A default constructor is a constructor that has no parameters. If we do not write any constructor,the Java compiler automatically provides a default constructor.
 
     //// Example: default constructor.
     //Student()     --->      ✅ Default Constructor
