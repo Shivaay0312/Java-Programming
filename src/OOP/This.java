@@ -28,6 +28,7 @@ package OOP;
 
             // Constructor 1
             Student10() {
+
                 this("Unknown", 0);
             }
 

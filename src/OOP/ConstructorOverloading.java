@@ -15,6 +15,7 @@ package OOP;
         Studenta() {
         }
         void display(){
+
             System.out.println();
         }
 
@@ -35,7 +36,7 @@ package OOP;
         }
         void shown(){
 
-            System.out.println("Age: " +age+ "," + "Name: " +name);
+            System.out.println("Age:" +age+ "," + "Name: " +name);
         }
  }
 
